@@ -1,4 +1,4 @@
-
+                                                      Emotion Detection
 #Emotion-Aware Speech Recognition using Whisper, Librosa, and SVM
   This project combines **speech recognition** and **emotion detection** from video/audio input. It uses [OpenAI Whisper](https://github.com/openai/whisper) for transcribing speech and [Librosa](https://librosa.org/) for extracting audio features to detect emotions using a Support Vector Machine (SVM) classifier.
 
